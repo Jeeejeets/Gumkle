@@ -11,6 +11,7 @@ I'm currently working on my project to finish my engineering degree ⚙️
 Long time member of AKAI - an web development student club, associated with Poznan University of Technology 🧑🏻‍🎓
 
 
+
 Check out some of the projects I have, feel free to ask me about them 💬
 
 If you want to contact, you can do it through 📫 dawidd.321@gmail.com
