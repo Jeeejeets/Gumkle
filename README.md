@@ -1,6 +1,6 @@
 ### Hellow 👋
 
-- I'm Dawid, software development is my work and my passion. 
+- I'm Dawid, software development is my work and my passion. 💖
 - I'm looking to collaborate in development of FOSS so I can add value to this wonderful community. 🌍
 - I'm currently located in Poland, EU 🇪🇺🇵🇱
 - I'm currently working on my project to finish my engineering degree ⚙️
