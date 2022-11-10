@@ -1,13 +1,11 @@
 ### Hellow 👋
 
 - I'm Dawid, software development is my work and my passion. 💖
-- I'm looking to collaborate in development of FOSS so I can add value to this wonderful community. 🌍
 - I'm currently located in Poland, EU 🇪🇺🇵🇱
-- I'm currently working on my project to finish my engineering degree ⚙️
 - Long time member of AKAI - an web development student club, associated with Poznan University of Technology 🧑🏻‍🎓
 
 - Check out some of the projects I have, feel free to ask me about them 💬
-- If you want to contact, you can do it through 📫 dawidd.321@gmail.com
+- If you want to contact, you can do it through 📫 dziedzicdev@gmail.com
 
 
 <!--
